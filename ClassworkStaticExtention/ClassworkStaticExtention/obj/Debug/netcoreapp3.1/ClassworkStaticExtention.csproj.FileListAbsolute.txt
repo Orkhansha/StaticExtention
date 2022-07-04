@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\bin\Debug\netcoreapp3.1\ClassworkStaticExtention.exe
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\bin\Debug\netcoreapp3.1\ClassworkStaticExtention.deps.json
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\bin\Debug\netcoreapp3.1\ClassworkStaticExtention.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\bin\Debug\netcoreapp3.1\ClassworkStaticExtention.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\bin\Debug\netcoreapp3.1\ClassworkStaticExtention.dll
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\bin\Debug\netcoreapp3.1\ClassworkStaticExtention.pdb
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.dll
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.pdb
+C:\Users\HP\Desktop\Programmer\c#\StaticExtention\ClassworkStaticExtention\ClassworkStaticExtention\obj\Debug\netcoreapp3.1\ClassworkStaticExtention.genruntimeconfig.cache
